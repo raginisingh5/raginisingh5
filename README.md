@@ -17,7 +17,7 @@ Passionate about turning raw data into meaningful insights through analysis, vis
 * *Data & Tools:* Data Cleaning, EDA, Git, GitHub
 
 ### 🤝 Connect With Me
-* [LinkedIn](https://linkedin.com)
+* LinkedIn: https://linkedin.com/in/ragini-singh-60554a402
 * Email: raginisingop12@gmail.com
 
 ✨ Learning, building, and growing one project at a time
