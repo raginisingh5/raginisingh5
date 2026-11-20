@@ -1,20 +1,9 @@
 # 👋 Hi there, I'm Ragini Singh!
-*BSc IT Student | Aspiring Data Analyst*
+I'm a BSc Information Technology student with an interest in Data Analytics and Business Intelligence. I'm passionate about exploring data, solving problems, and turning raw information into meaningful insights.
 
-Passionate about turning raw data into meaningful insights through analysis, visualization, and problem-solving.
+Currently, I'm developing my skills in Python, SQL, Microsoft Excel, and Power BI while working on practical projects to strengthen my understanding of data analysis.
 
-### 👩‍💻 About Me
-* 🎓 Pursuing a *BSc in Information Technology* and building practical projects to become a Data Analyst.
-* 📊 Interested in *Data Analytics, Business Intelligence, and Exploratory Data Analysis (EDA)*.
-* 🌱 Currently sharpening my skills in *Power BI dashboards, SQL querying, and Python*.
-
-### ☕ Featured Project: [Coffee Shop Sales Analysis](https://github.com)
-* Cleaned raw CSV sales data in *Excel, imported it into **DBeaver, and ran **SQL* queries to uncover peak hours, top products, and revenue trends.
-
-### 🛠️ Tech Stack
-* *Visualization & BI:* Power BI, Microsoft Excel
-* *Databases & Languages:* SQL, Python, DBeaver
-* *Data & Tools:* Data Cleaning, EDA, Git, GitHub
+I believe in continuous learning, hands-on practice, and improving my skills through real-world projects.
 
 ### 🤝 Connect With Me
 * LinkedIn: https://linkedin.com/in/ragini-singh-60554a402
